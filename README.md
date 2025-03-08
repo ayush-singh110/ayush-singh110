@@ -19,7 +19,7 @@ Libraries: <br>
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit-Learn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-FA9F1E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Sqlite3](https://img.shields.io/badge/Sqlite3-3776AB?style=for-the-badge&logo=Sqlite3&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-3776AB?style=for-the-badge&logo=Flask&logoColor=white)
 
