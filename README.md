@@ -20,6 +20,10 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-49A3A3?style=for-the-badge)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![NLTK](https://img.shields.io/badge/-NLTK-154570?style=for-the-badge)
+![Gensim](https://img.shields.io/badge/-Gensim-FF9900?style=for-the-badge)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
@@ -29,7 +33,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 
 ---
 
@@ -42,5 +45,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-singh110&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
-
-
