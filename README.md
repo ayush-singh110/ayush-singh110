@@ -1,4 +1,4 @@
-👋 Hi, I’m @ayush-singh110  
+👋 Hi, I'm @ayush-singh110  
 🚀 Machine Learning | DSA Enthusiast | Problem Solver  
 👩‍💻 Passionate about AI, Deep Learning & Competitive Programming  
 📚 Exploring ML models, algorithms & optimization techniques  
@@ -36,15 +36,14 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Groq](https://img.shields.io/badge/-Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayush-singh110&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-singh110&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
