@@ -36,9 +36,6 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![Groq](https://img.shields.io/badge/-Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
-<img width="746" height="993" alt="image" src="https://github.com/user-attachments/assets/54da8b24-a450-4893-9648-2308cf4395f0" />
-
-
 
 
 ---
