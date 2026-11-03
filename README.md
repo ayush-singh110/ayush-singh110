@@ -149,7 +149,7 @@ Building intelligent systems and exploring the future of Artificial Intelligence
 
 </div>
 
----
+
 
 
 <a href="YOUR_LINKEDIN_URL">
