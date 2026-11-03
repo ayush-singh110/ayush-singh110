@@ -27,6 +27,7 @@ Building intelligent systems and exploring the future of Artificial Intelligence
 ## 🛠️ Tech Stack & Technologies
 
 ### 👨‍💻 Programming Languages
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
@@ -34,6 +35,7 @@ Building intelligent systems and exploring the future of Artificial Intelligence
 </p>
 
 ### 🤖 Machine Learning & Deep Learning
+
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
@@ -46,6 +48,7 @@ Building intelligent systems and exploring the future of Artificial Intelligence
 </p>
 
 ### 📊 Data Science & NLP
+
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -56,6 +59,7 @@ Building intelligent systems and exploring the future of Artificial Intelligence
 </p>
 
 ### 🧠 Generative AI & Agentic AI
+
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
@@ -65,6 +69,7 @@ Building intelligent systems and exploring the future of Artificial Intelligence
 </p>
 
 ### ⚙️ Frameworks & Developer Tools
+
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
@@ -76,6 +81,7 @@ Building intelligent systems and exploring the future of Artificial Intelligence
 </p>
 
 ### ☁️ Cloud, Databases & MLOps
+
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -84,11 +90,13 @@ Building intelligent systems and exploring the future of Artificial Intelligence
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
 </p>
+
 ---
 
 ## 💼 Featured Projects
 
 ### 🔹 Smart Resume Reviewer
+
 **Tech Stack:** LangChain, FAISS, Groq API, AWS S3, DynamoDB, Docker
 
 - Developed a RAG-powered resume analysis system for ATS optimization.
@@ -97,6 +105,7 @@ Building intelligent systems and exploring the future of Artificial Intelligence
 - Containerized the application using Docker.
 
 ### 🔹 WebAegis – AI-Powered Phishing Website Detection
+
 **Tech Stack:** Random Forest, FastAPI, MongoDB, MLflow
 
 - Developed an end-to-end ML pipeline for phishing website detection using 11K+ website samples.
@@ -105,6 +114,7 @@ Building intelligent systems and exploring the future of Artificial Intelligence
 - Built REST APIs for real-time phishing prediction.
 
 ### 🔹 AI Email Orchestrator
+
 **Tech Stack:** LangGraph, LLMs, FastAPI, Gmail API
 
 - Designed a six-node LangGraph workflow for intelligent email automation.
@@ -112,6 +122,7 @@ Building intelligent systems and exploring the future of Artificial Intelligence
 - Integrated conditional routing and human-in-the-loop approval.
 
 ### 🔹 AI Text Detector
+
 **Tech Stack:** NLP, Word2Vec, Gensim, Decision Tree
 
 - Developed an NLP-based system to distinguish AI-generated and human-written text.
@@ -146,18 +157,5 @@ Building intelligent systems and exploring the future of Artificial Intelligence
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=ayush-singh110&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
-
-
-
-
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-**"Turning data into intelligence and ideas into impactful solutions."** 🚀
 
 </div>
