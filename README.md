@@ -151,23 +151,6 @@ Building intelligent systems and exploring the future of Artificial Intelligence
 
 ---
 
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ayush-singh110/ayush-singh110/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/ayush-singh110">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
 <a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
